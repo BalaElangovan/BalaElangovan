@@ -1,4 +1,4 @@
-![banner](https://github.com/BalaElangovan/BalaElangovan/blob/main/intro%20gif.gif)
+![banner](https://github.com/BalaElangovan/BalaElangovan/blob/main/intro1.gif)
 
 ### Hi there 👋
 
