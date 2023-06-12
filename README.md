@@ -1,6 +1,12 @@
 ![banner](https://github.com/BalaElangovan/BalaElangovan/blob/main/intro1.gif)
 
-### Hi there 👋
+Hi, I'm Bala. I'm currently pursuing my master's degree in Data Science and Analytics. I don't have any impressive work to showcase, but I'm actively learning and building my portfolio from scratch. So, This readme file is gonna updated soon with some cool projects :) 
+
+I code on Python and I'm pretty fluent with basic libraries like Numpy, pandas, matplotlib etc. I do read a lot of blogs and I do write blogs on my own. 
+
+I'm really good at automating in bash and I was a former Web-App Pentester (bug bounty hunter) with 15+ acknowledgements and hall-of-fame from several companies which includes Blackberry, Coursera, canva and much more.   
+
+
 
 <!--
 **BalaElangovan/BalaElangovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
