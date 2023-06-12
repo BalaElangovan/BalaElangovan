@@ -1,3 +1,5 @@
+![banner](https://github.com/BalaElangovan/BalaElangovan/blob/main/intro%20gif.gif)
+
 ### Hi there 👋
 
 <!--
