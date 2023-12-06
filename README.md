@@ -1,10 +1,10 @@
 ![banner](https://github.com/BalaElangovan/BalaElangovan/blob/main/intro1.gif)
 
-Hi, I'm Bala. I'm currently pursuing my master's degree in Data Science and Analytics. I don't have any impressive work to showcase, but I'm actively learning and building my portfolio from scratch. So, This readme file is gonna updated soon with some cool projects :) 
+Hi, I'm Bala. Enthusiastic data professional with a strong foundation in Data Science and Analytics, backed by a post-graduate degree. Proficient in SQL, Python, Azure, Apache Airflow, ETL, Bash and experienced in GitHub, Linux, data lake and data warehouse concepts. Skilled in Data Engineering, Data Analytics, and adept at building robust data pipelines. Actively engaged in creating innovative projects centred around data pipelining and Azure cloud solutions. I do read a lot of blogs and I do write blogs on my own. 
 
-I code on Python and I'm pretty fluent with basic libraries like Numpy, pandas, matplotlib etc. I do read a lot of blogs and I do write blogs on my own. 
+During my undergraduate years, I honed my skill in web application penetration through bug bounty programs, earning recognition on the Hall of Fame boards of prominent companies including BlackBerry, HealthifyMe, and 15+ companies.
 
-I'm really good at automating in bash and I was a former Web-App Pentester (bug bounty hunter) with 15+ acknowledgements and hall-of-fame from several companies which includes Blackberry, Coursera, canva and much more.   
+Actively seeking Entry-level Data Engineering and Analytics Roles.
 
 
 
