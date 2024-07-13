@@ -1,10 +1,10 @@
 ![banner](https://github.com/BalaElangovan/BalaElangovan/blob/main/intro1.gif)
 
-Hi, I'm Bala. Enthusiastic data professional with a strong foundation in Data Science and Analytics, backed by a post-graduate degree. Proficient in SQL, Python, Azure, Apache Airflow, ETL, Bash and experienced in GitHub, Linux, data lake and data warehouse concepts. Skilled in Data Engineering, Data Analytics, and adept at building robust data pipelines. Actively engaged in creating innovative projects centred around data pipelining and Azure cloud solutions. I do read a lot of blogs and I do write blogs on my own. 
+Hi, I'm Bala. Enthusiastic data professional with a strong Data Science and Analytics foundation, backed by a post-graduate degree. Proficient in Python, SQL, MS Excel, Apache Airflow, Power BI, and Automation using Bash. Hands-on experience in Neural networks, Machine learning, data lake and data warehouse concepts. Skilled in Data Analytics, Data Engineering, and adept at building robust data pipelines. Engaged in data analytics and machine learning projects, while continuously self-learning about various cloud and big data technologies. I enjoy reading and writing blogs.
 
 During my undergraduate years, I honed my skill in web application penetration through bug bounty programs, earning recognition on the Hall of Fame boards of prominent companies including BlackBerry, HealthifyMe, and 15+ companies.
 
-Actively seeking Entry-level Data Engineering and Analytics Roles.
+I am actively pursuing a role in data science, analytics, cybersecurity, and automation.
 
 
 
