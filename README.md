@@ -4,7 +4,7 @@ Hi, I'm Bala. Enthusiastic data professional with a strong Data Science and Anal
 
 During my undergraduate years, I honed my skill in web application penetration through bug bounty programs, earning recognition on the Hall of Fame boards of prominent companies including BlackBerry, HealthifyMe, and 15+ companies.
 
-I am actively pursuing a role in data science, analytics, cybersecurity, and automation.
+I am actively seeking opportunities in the data science and analytics field where I can apply my skills and expertise. I am passionate about leveraging data to drive decision-making and uncover insights, and I am eager to contribute to a team that values innovative data solutions.
 
 
 
