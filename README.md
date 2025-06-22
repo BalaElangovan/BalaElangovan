@@ -1,7 +1,8 @@
 ![banner](https://github.com/BalaElangovan/BalaElangovan/blob/main/intro1.gif)
 
-Hi, I'm Bala. Healthcare Analytics Developer
-My expertise is in delivering analytics solutions within the healthcare sector. I develop Power BI dashboards, custom Power Apps, and Power Automate workflows. My responsibilities cover data analytics, warehousing, and testing, with a focus on collaborating with stakeholders to align technical solutions with real-world needs. I leverage SQL and DAX and integrate DevOps practices to ensure maintainable solutions.
+As a Healthcare Analytics Developer, I build and deliver analytics solutions that support healthcare operations. My work involves developing dashboards in Power BI, creating custom Power Apps, automating workflows with Power Automate, and utilizing SQL and DAX for data manipulation. I also manage data warehousing and testing processes, applying DevOps principles for robust solutions.
+
+Outside of my core role, I actively develop Python-based projects, with a keen interest in automating tasks, exploring Natural Language Processing (NLP), and building Machine Learning (ML) and Neural Network models.
 
 
 
