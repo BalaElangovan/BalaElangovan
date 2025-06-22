@@ -1,10 +1,7 @@
 ![banner](https://github.com/BalaElangovan/BalaElangovan/blob/main/intro1.gif)
 
-Hi, I'm Bala. Enthusiastic data professional with a strong Data Science and Analytics foundation, backed by a post-graduate degree. Proficient in Python, SQL, MS Excel, Apache Airflow, Power BI, and Automation using Bash. Hands-on experience in Neural networks, Machine learning, data lake and data warehouse concepts. Skilled in Data Analytics, Data Engineering, and adept at building robust data pipelines. Engaged in data analytics and machine learning projects, while continuously self-learning about various cloud and big data technologies. I enjoy reading and writing blogs.
-
-During my undergraduate years, I honed my skill in web application penetration through bug bounty programs, earning recognition on the Hall of Fame boards of prominent companies including BlackBerry, HealthifyMe, and 15+ companies.
-
-I am actively seeking opportunities in the data science and analytics field where I can apply my skills and expertise. I am passionate about leveraging data to drive decision-making and uncover insights, and I am eager to contribute to a team that values innovative data solutions.
+Hi, I'm Bala. Healthcare Analytics Developer
+My expertise is in delivering analytics solutions within the healthcare sector. I develop Power BI dashboards, custom Power Apps, and Power Automate workflows. My responsibilities cover data analytics, warehousing, and testing, with a focus on collaborating with stakeholders to align technical solutions with real-world needs. I leverage SQL and DAX and integrate DevOps practices to ensure maintainable solutions.
 
 
 
