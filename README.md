@@ -1,6 +1,10 @@
 ![banner](https://github.com/BalaElangovan/BalaElangovan/blob/main/intro1.gif)
 
-As a Healthcare Analytics Developer, I build and deliver analytics solutions that support healthcare operations. My work involves developing dashboards in Power BI, creating custom Power Apps, automating workflows with Power Automate, and utilizing SQL and DAX for data manipulation. I also manage data warehousing and testing processes, applying DevOps principles for robust solutions.
+As a  Business Intelligence Developer/Analyst helping clinical teams make data-driven decisions by building custom applications, streamlining workflows, and turning complex data into actionable insights.
+
+Specialising in delivering data-driven solutions using Power BI, Power Apps, Power Automate, SQL, and DAX. I design and develop custom Power Apps, automate complex workflows, and build dynamic dashboards to support operational insights and healthcare decision-making. 
+
+I work across the full data lifecycle, including data analytics, warehousing and testing, while collaborating closely with stakeholders and service users to align solutions with real-world needs. Skilled in DevOps practices, I contribute to secure, scalable, and maintainable analytics solutions that drive efficiency and improve patient care.
 
 Outside of my core role, I actively develop Python-based projects, with a keen interest in automating tasks, exploring Natural Language Processing (NLP), and building Machine Learning (ML) and Neural Network models.
 
