@@ -1,6 +1,6 @@
 ![banner](https://github.com/BalaElangovan/BalaElangovan/blob/main/intro1.gif)
 
-As a  Business Intelligence Developer/Analyst helping clinical teams make data-driven decisions by building custom applications, streamlining workflows, and turning complex data into actionable insights.
+As an Analytics Developer helping clinical teams make data-driven decisions by building custom applications, streamlining workflows, and turning complex data into actionable insights.
 
 Specialising in delivering data-driven solutions using Power BI, Power Apps, Power Automate, SQL, and DAX. I design and develop custom Power Apps, automate complex workflows, and build dynamic dashboards to support operational insights and healthcare decision-making. 
 
